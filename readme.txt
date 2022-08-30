@@ -13,3 +13,7 @@ hello python
 hello golang
 
 hello java
+
+hello c
+
+hello rust
